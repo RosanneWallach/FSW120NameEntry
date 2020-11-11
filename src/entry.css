@@ -1,0 +1,60 @@
+body {
+    background-color: #474747
+}
+.title {
+    background-color: #89c1a5;
+    padding: 15px;
+}
+.form-container {
+    background-color: #d6d6d6;
+    border: solid 1px transparent;
+    border-radius: 8px;
+    margin-top: 25px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding-bottom: 30px;
+    text-align: center;
+    box-shadow: 1px 11px 31px -4px rgba(0,0,0,0.79);;
+    font-size: 25px;
+}
+.ol-container {
+    border: solid 1px transparent;
+    box-shadow: 1px 8px 10px -4px rgba(0,0,0,0.79);
+    margin-top: 25px;
+    padding: 20px;
+    background-color: white;
+}
+.listItems {
+    font-size: 25px;  
+}
+
+button {
+    margin-top: 20px;
+    width: 145px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 8px;
+    border: solid 1px transparent;
+    box-shadow: 1px 11px 15px -8px rgba(0,0,0,0.74);
+    outline: none;
+    
+}
+button:hover {
+    background-color: #89c1a5;
+    width: 145px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 8px;
+    border: solid 1px transparent;
+    box-shadow: 1px 11px 15px -8px rgba(0,0,0,0.74);
+    outline: none;
+}
+input {
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 8px;
+    border: solid 1px transparent;
+    box-shadow: 1px 11px 9px -8px rgba(0,0,0,0.74);
+    outline: none;
+    width: 350px;
+}
